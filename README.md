@@ -1,5 +1,5 @@
 # power-network  
-#this is code and results of my paper. when it published，i will updata DOI of the paper here.  
+#this is data and results of my paper. when it published，i will updata DOI of the paper here.  
 #data are upload to data file folder  
 #data are upload to data file folder  
 #the ranking results are uploda to results folder  
